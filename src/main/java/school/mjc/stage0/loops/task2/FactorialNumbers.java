@@ -1,4 +1,5 @@
 package school.mjc.stage0.loops.task2;
+import java.math.BigInteger;
 
 public class FactorialNumbers {
     public void printFactorialRow(int printToInclusive) {
